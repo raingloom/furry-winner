@@ -83,7 +83,6 @@ namespace monopoly {
         };
         Field(FieldType type)
         {
-            
         }
     };
     enum PlayerAction {
